@@ -1,5 +1,5 @@
-﻿# friends-app
-Table of Contents
+﻿
+*Table of Contents*
 ⚙️ Tech Stack: Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
 ✅ CRUD Functionality: Seamlessly create, read, update, and delete friends from your store.
 🔒 Best Practices: Utilizes best practices such as creating virtual environments (venv) for a clean and isolated development environment.
